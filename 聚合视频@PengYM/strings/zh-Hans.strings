@@ -1,0 +1,17 @@
+"CANCEL" = "取消";
+"OK" = "确认";
+
+"menu_search" = "搜索";
+"menu_collections" = "收藏";
+"menu_settings" = "设置";
+
+"video_search_placeholder" = ""搜索在线内容 ...";
+
+"detail_share" = "分享";
+"detail_open" = "打开";
+"detail_favorite" = "收藏";
+"detail_pull" = "⇃ 下拉返回 ⇂";
+"detail_release" = "↿ 释放返回 ↾";
+"detail_footer" = "聚合视频©PengYM";
+"detail_description" = "简介";
+"detail_videos" = "剧集列表";

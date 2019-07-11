@@ -1,0 +1,67 @@
+{"sortSearchResult":true,"defaultParser":"8","filterSearchResults":true, "apis": [
+    {
+      "id": "1",
+      "url": "http://www.82190555.com/index/qqvod.php?url=",
+      "name": "接口1",
+      "enabled": true
+    },
+    {
+      "id": "2",
+      "url": "http://jx.598110.com/?url=",
+      "name": "接口2",
+      "enabled": true
+    },
+    {
+      "id": "3",
+      "url": "https://www.myxin.top/jx/api/?url=",
+      "name": "接口3",
+      "enabled": true
+    },
+    {
+      "id": "4",
+      "url": "https://api.v6.chat/?url=",
+      "name": "接口4",
+      "enabled": true
+    },
+    {
+      "id": "5",
+      "url": "http://jqaaa.com/jx.php?url=",
+      "name": "接口5",
+      "enabled": true
+    },
+    {
+      "id": "6",
+      "url": "https://beaacc.com/api.php?url=",
+      "name": "接口6",
+      "enabled": true
+    },
+    {
+      "id": "7",
+      "url": "http://vip.jlsprh.com/?url=",
+      "name": "接口7",
+      "enabled": true
+    },
+    {
+      "id": "8",
+      "url": "http://v.renrenfabu.com/jiexi.php?url=",
+      "name": "人人VIP解析",
+      "enabled": true
+    },
+    {
+      "id": "9",
+      "url": "http://tv.wandhi.com/go.html?url=",
+      "name": "玩的嗨(优酷专用)",
+      "enabled": true
+    },
+    {
+      "id": "10",
+      "url": "http://tv.wandhi.com/go.html?url=",
+      "name": "石头解析",
+      "enabled": true
+    },{
+      "id": "11",
+      "url": "https://660e.com/?url=",
+      "name": "乐乐云",
+      "enabled": true
+    }
+  ]}
